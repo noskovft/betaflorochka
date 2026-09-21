@@ -1,0 +1,6 @@
+{
+    "bot_token": "8879115585:AAF-L6k4Iqqh9bZuZVH7uPLoLL4vLe0ZJSI",
+    "db_url": "postgresql://postgres:Kodex276711@db.uctvxknrasrmzifgnoha.supabase.co:5432/postgres",
+    "channel_url": "https://t.me/floraclient",
+    "channel_id": "@floraclient"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "floraclient-bot",
+    "version": "1.0.0",
+    "description": "FloraClient Telegram Bot",
+    "scripts": {
+        "install": "pip install -r requirements.txt",
+        "start": "python bot.py"
+    },
+    "engines": {
+        "python": ">=3.10"
+    },
+    "config": {
+        "config_file": "config.json",
+        "database": "PostgreSQL via Supabase"
+    }
+}
